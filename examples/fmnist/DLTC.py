@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# File: cifar-convnet.py
-# Author: Yuxin Wu
 import argparse
 import os
 from tensorpack import tfv1 as tf
