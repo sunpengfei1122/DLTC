@@ -15,8 +15,6 @@ This the official code repository for the paper *"Delay Learning Based on Tempor
 ## Abstract
 Spiking Neural Networks (SNNs) offer great potential for mimicking the brain’s efficient information processing. While precise spike timing is known to be crucial for effective information encoding, current SNN research largely focuses on adjusting connection weights. This paper introduces Delay Learning based on Temporal Coding (DLTC), a novel approach that combines delay learning with temporal coding to optimize spike timing in SNNs. DLTC incorporates a learnable delay shift that assigns varying importance to different informational elements, alongside an adjustable threshold for regulating firing times. Tested in various vision and auditory classification tasks, DLTC consistently outperforms traditional weight-only SNNs, achieving significant improvements in accuracy and computational efficiency. 
 
-## Repository
-You can access the code used in the paper at: [https://github.com/sunpengfei1122/DLTC](https://github.com/sunpengfei1122/DLTC)
 
 ## Requirements
 - Python 3.x
