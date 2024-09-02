@@ -19,7 +19,7 @@ Spiking Neural Networks (SNNs) offer great potential for mimicking the brain’s
 ## Requirements
 - Python 3.x
 - Tensorpack
-- [Additional dependencies]
+
 
 ## Installation
 
