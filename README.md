@@ -32,4 +32,7 @@ We use Tensorpack to accelerate the training process. Below is an example using 
 # To do #
 More examples will be added. 
 
+# Credits # 
+The code for achieve the ttfs is based on (https://github.com/zbs881314/Temporal-Coded-Deep-SNN)
+
 
