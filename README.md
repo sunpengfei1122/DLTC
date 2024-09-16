@@ -32,10 +32,11 @@ Spiking Neural Networks (SNNs) offer great potential for mimicking the brain’s
 We use Tensorpack to accelerate the training process. Below is an example using the Fashion-MNIST dataset, where you can achieve an accuracy of 89.59% with a two fully-connected layer model.
 
 **How to run:**
-
+1. Install the Tensorpack package
+2.  Run the example script 
 ```
-- 1. Install the Tensorpack package from https://github.com/tensorpack/tensorpack
-- 2. Run the example script:  python examples/fmnist/DLTC.py
+- git clone https://github.com/tensorpack/tensorpack
+- python examples/fmnist/DLTC.py
 ```
 
 More examples will be added. 
