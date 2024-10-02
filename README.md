@@ -1,6 +1,6 @@
 # README
 
-This the official code repository for the paper *"Delay Learning Based on Temporal Coding in Spiking Neural Networks"*.
+This is the official code repository for the paper *"Delay Learning Based on Temporal Coding in Spiking Neural Networks"*.
 
 **Paper Details:**
 
