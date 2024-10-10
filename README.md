@@ -35,7 +35,7 @@ We use Tensorpack to accelerate the training process. Below is an example using 
 1. Install the Tensorpack package
 2.  Run the example script 
 ```
-- git clone https://github.com/tensorpack/tensorpack
+- pip install --upgrade git+https://github.com/tensorpack/tensorpack.git
 - python examples/fmnist/DLTC.py
 ```
 
